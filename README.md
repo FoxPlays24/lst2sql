@@ -1,7 +1,8 @@
 # lst2sql
 
 **lst2sql** - CLI for parsing .LST format, creating query.txt with generated SQL script and automaticaly executing it in remote MySQL database. ```LST``` - special markdown SQL-tables, examples can be seem in "bin/examples".<br>
-Raw project for a job application. I haven't heard back for couple months, so I'm uploading it to github as free-to-use, don't want to maintain it, but you're welcome to do so.
+Raw project for a job application. I haven't heard back for couple months, so I'm uploading it to github as free-to-use, don't want to maintain it, but you're welcome to do so.<br>
+Fun P.S: I promised over the phone that I wouldn't use AI, lol
 
 ***Q:*** Why'd yo have .dlls in your bin folder?!<br>
 ***A:*** It's a raw project, so I decided not to handle automatic dependency loading, by the way, a shell script is used to build the project
